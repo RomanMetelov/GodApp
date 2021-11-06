@@ -2,7 +2,7 @@
 
 So, what do I want to get:
 
-1. Achievments diary, diary of what's done.
+1. Achievments diary (winnings), diary of what's done.
 2. all my notes, everything that i want to save: my thoughts, useful links, quotes and clishes from books movies and blogers, everything that i'd like to save
 notes separated by folders and channels (like telegram) and with tags. I'd like to have educational, financial records, daily, weekly plans, year and decade plans
 I'd like to create notes about cafes, cinema halls with my review and mark, cars, bikes, food, beverages, hotels. 
@@ -21,14 +21,18 @@ Also I have to have main life strategy or goals
 7. also something like Tihran's remembery - for repeating technical things, traffic rules, life principles, 
 useful thoughts which must be implemented in my life, languages of course, etc
 8. weather with wind and rain forecast
-9. sport calendar
+9. sport calendar - with subscribe on your favorite teams/championships/players with notifications like 'today is 100500 games, let's bet'
 10. sport predictions aggregator.
 11. tg-bot - u send message to bot and it creates new story in your app, which could be dragged and dropped to other blocks
 12. for remembery - user can create it's own questionnaire
 13. time tracker - sends pushes each 15 minutes. You don't need to launch app, you are creating
 14. app paradise - with news but without hate content
 15. Visualizer money incomes and outcomes, time tracking, money tracking
-16. 
+16. to do today
+17. bets statistic, bookmakers and sports analytics, digest, podkast, blog, inst
+18. dices
+19. cosmos
+20. 
 
 XX. maybe it already was: Knowledge Base
 
