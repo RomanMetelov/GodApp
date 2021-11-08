@@ -2,6 +2,16 @@
 
 So, what do I want to get:
 
+First of all:
+1. Push Time Tracker (Time Tracker with Push Notifications)
+1.1 Task editor - each push could be connected to task or not. Each task can be connected to daily plan so in the end of the day you can rate your day,
+automatically, and also see the whole picture per day/week/etc
+1.2 Calendar - you can set daily "work" hours, customize it for some if it is not fits in your regular schedule. Calendar also sends you notification-reminders.
+So we have several types of push-notifications, several sounds, etc.
+1.3 smart alarm - unable to stop by pressing volume and lock and menu buttons; requires enter complicated pin code or solve zadachu
+
+
+All ideas:
 1. Achievments diary (winnings), diary of what's done.
 2. all my notes, everything that i want to save: my thoughts, useful links, quotes and clishes from books movies and blogers, everything that i'd like to save
 notes separated by folders and channels (like telegram) and with tags. I'd like to have educational, financial records, daily, weekly plans, year and decade plans
@@ -36,6 +46,7 @@ useful thoughts which must be implemented in my life, languages of course, etc
 21. 
 
 XX. maybe it already was: Knowledge Base
+for knowledge base - tags, for task - tags, for music - tags, for food, movie, books, useful links, useless links
 
 technical requirements
 A. demo/user modes, user/admin user profiles. Demo user for the first launch and by call. 
