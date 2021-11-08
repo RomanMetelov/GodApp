@@ -32,7 +32,8 @@ useful thoughts which must be implemented in my life, languages of course, etc
 17. bets statistic, bookmakers and sports analytics, digest, podkast, blog, inst
 18. dices
 19. cosmos
-20. 
+20. memory cleaning per module by user
+21. 
 
 XX. maybe it already was: Knowledge Base
 
