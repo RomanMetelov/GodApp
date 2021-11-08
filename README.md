@@ -4,10 +4,13 @@ So, what do I want to get:
 
 First of all:
 1. Push Time Tracker (Time Tracker with Push Notifications)
+
 1.1 Task editor - each push could be connected to task or not. Each task can be connected to daily plan so in the end of the day you can rate your day,
 automatically, and also see the whole picture per day/week/etc
+
 1.2 Calendar - you can set daily "work" hours, customize it for some if it is not fits in your regular schedule. Calendar also sends you notification-reminders.
 So we have several types of push-notifications, several sounds, etc.
+
 1.3 smart alarm - unable to stop by pressing volume and lock and menu buttons; requires enter complicated pin code or solve zadachu
 
 
