@@ -1,0 +1,9 @@
+# 11/9/2021 21:16 GMT+2
+Created this file. I'm constantly changing my plans as to what feature should be implemented, what feature should be implemented first, 
+how connect features with each other, etc etc etc. So this file will be like a logbook for me. And timetracker %) 
+
+So, at the moment I'm not sure about full feature list, and still don't have a clear idea of each feature and how it should look like. First of all I need 
+smart alarmclock and time tracker / time logger. This is a really important feature that can help me organize my life and be more productive. 
+
+Now I'm going to start with timer-alarmclock, it will give me a little more time, because I will wake up earlier, and it will also save me some money, 
+because if I wake up early, I'll have time to have breakfast at home.
