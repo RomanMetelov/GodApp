@@ -13,6 +13,17 @@ So we have several types of push-notifications, several sounds, etc.
 
 1.3 smart alarm - unable to stop by pressing volume and lock and menu buttons; requires enter complicated pin code or solve zadachu
 
+Check this out
+
+https://github.com/Sztorm/NoteCalendar/commits/master
+
+https://github.com/smaukay/BeyondPomodoro
+
+https://github.com/AdrianMiozga/GetFlow/
+
+https://github.com/svn2github/android-calendar-view/commits/master
+
+wishlist in playstore
 
 # All ideas:
 
@@ -47,7 +58,8 @@ useful thoughts which must be implemented in my life, languages of course, etc
 18. dices
 19. cosmos
 20. memory cleaning per module by user
-21. 
+21. daily challenges like solve 3 zadachi till 6-30 o'clock during 30 days and buy yourself a ho
+22. 
 
 XX. maybe it already was: Knowledge Base
 for knowledge base - tags, for task - tags, for music - tags, for food, movie, books, useful links, useless links
