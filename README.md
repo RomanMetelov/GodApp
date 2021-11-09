@@ -14,7 +14,8 @@ So we have several types of push-notifications, several sounds, etc.
 1.3 smart alarm - unable to stop by pressing volume and lock and menu buttons; requires enter complicated pin code or solve zadachu
 
 
-All ideas:
+# All ideas:
+
 1. Achievments diary (winnings), diary of what's done.
 2. all my notes, everything that i want to save: my thoughts, useful links, quotes and clishes from books movies and blogers, everything that i'd like to save
 notes separated by folders and channels (like telegram) and with tags. I'd like to have educational, financial records, daily, weekly plans, year and decade plans
@@ -51,17 +52,27 @@ useful thoughts which must be implemented in my life, languages of course, etc
 XX. maybe it already was: Knowledge Base
 for knowledge base - tags, for task - tags, for music - tags, for food, movie, books, useful links, useless links
 
-technical requirements
+# technical requirements
+
 A. demo/user modes, user/admin user profiles. Demo user for the first launch and by call. 
+
 B. my data is very important for me, so all connections must be secured, all data transfers must be secured, backup for data, biometric, password,
 password restore
+
 C. I'd like to have possibility be connected from several devices.
+
 D. Maybe we can make to versions: MVP-rxJava-layouts and MVVM-coroutines-compose
+
 E. Protected master branch of course
+
 F. idk
+
 G. we can use as backend github api, tg api, firebase
+
 H. 
+
 ...
+
 Z. video demo for interviewers
 
 ?? - "Android sample app following best practices: Kotlin, Compose, Coroutines and Flow, Hilt, JetPack Navigation, ViewModel, MVVM and MVI, Retrofit, Coil" - ??
